@@ -1,5 +1,5 @@
 from sqlmodel import SQLModel
-from app.models.files import File
+from app.models.metadata import Metadata
 
 
-__all__ = ["SQLModel", "File"]
+__all__ = ["SQLModel", "Metadata"]
