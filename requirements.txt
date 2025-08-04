@@ -2,4 +2,5 @@ fastapi[standard]
 uvicorn[standard]
 sqlmodel
 alembic
+pydantic
 python-multipart

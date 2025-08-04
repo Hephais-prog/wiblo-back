@@ -1,5 +1,5 @@
 from sqlmodel import SQLModel
-from app.models.metadata import Metadata
+from app.models.article import Article
 
 
-__all__ = ["SQLModel", "Metadata"]
+__all__ = ["SQLModel", "Article"]
